@@ -2,7 +2,8 @@
 .idea/
 
 # Maven
-./target
+target/
+**/target/
 
 # Package files
 *.jar

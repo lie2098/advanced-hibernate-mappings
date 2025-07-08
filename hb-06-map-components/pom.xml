@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lye</groupId>
-    <artifactId>hb-05-map-component</artifactId>
+    <artifactId>hb-06-map-component</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
